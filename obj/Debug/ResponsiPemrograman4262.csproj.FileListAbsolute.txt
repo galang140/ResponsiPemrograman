@@ -1,0 +1,6 @@
+D:\Responsi pemrog\ResponsiPemrograman4262\bin\Debug\ResponsiPemrograman4262.exe.config
+D:\Responsi pemrog\ResponsiPemrograman4262\obj\Debug\ResponsiPemrograman4262.csprojResolveAssemblyReference.cache
+D:\Responsi pemrog\ResponsiPemrograman4262\bin\Debug\ResponsiPemrograman4262.exe
+D:\Responsi pemrog\ResponsiPemrograman4262\bin\Debug\ResponsiPemrograman4262.pdb
+D:\Responsi pemrog\ResponsiPemrograman4262\obj\Debug\ResponsiPemrograman4262.exe
+D:\Responsi pemrog\ResponsiPemrograman4262\obj\Debug\ResponsiPemrograman4262.pdb
